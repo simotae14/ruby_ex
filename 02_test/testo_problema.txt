@@ -1,0 +1,7 @@
+L'obiettivo di questo compito è MANIPOLARE LE COLLEZIONI PER OTTENERE UN RISULTATO.
+
+L'obiettivo funzionale del compito è CONCATENARE UNA SERIE DI FUNZIONI INSIEME PER TROVARE DEI VALORI SELEZIONATI IN UNA COLLEZIONE.
+
+Dai un occhio alla descrizione completa ed ai file per iniziare ai seguenti repo github:
+  - istruzioni: https://github.com/jhu-ep-coursera/fullstack-course1-module2/blob/master/Assignments/Lesson02-Assignment01-Collections/README.pdf
+  - file Bootstrap: https://github.com/jhu-ep-coursera/fullstack-course1-module2/tree/master/Assignments/Lesson02-Assignment01-Collections

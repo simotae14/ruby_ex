@@ -1,0 +1,14 @@
+L'obiettivo di questo compito è implementare una classe Ruby con:
+
+    - attributi di classe
+    - metodi di classe
+    - metodi initializer
+    - attributi di istanza
+    - metodi di istanza
+
+Obiettivo funzionale del compito è scrivere una classe Person che dovrà mantenere lo stato fra gli attributi di istanza e di classe e fra i metodi di classe e di istanza.
+
+Guarda la descrizione completa del compito ed i file di inizio da github:
+
+    - Instruzioni: https://github.com/jhu-ep-coursera/fullstack-course1-module2/blob/master/Assignments/Lesson03-Assignment01-Classes/README.pdf
+    - Bootstrap files: https://github.com/jhu-ep-coursera/fullstack-course1-module2/tree/master/Assignments/Lesson03-Assignment01-Classes
